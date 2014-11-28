@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[ice cream]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-11-28T05:51:14.673Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[kuangkuang]]></name>
+    <email><![CDATA[970431928@qq.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[新的开始]]></title>
+    <link href="http://yoursite.com/2014/11/28/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+    <id>http://yoursite.com/2014/11/28/新的开始/</id>
+    <published>2014-11-28T05:18:31.000Z</published>
+    <updated>2014-11-28T05:34:41.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="Hello_world!">Hello world!</h2>
+<p>寒冷的冬天提醒我又要关注一下来年春夏的颜色了，因为春夏的颜色往往清新明快，赏心悦目的颜色会让我感觉冬天不那么难熬…</p>
+<p>除了一系列和谐又多变的色彩之外，时尚大师们对于色彩的热情诠释同样让我备受启发。色彩如此直观的牵动人的情绪和思想，想营造庄严的寂静？还是宁静的优雅？是空气感的轻盈？还是现代感的速度？是想给人薰衣草庄园一样的梦幻感？美酒和宝石的奢华感？还是水果和甜品的愉悦感？</p>
+<p><img src="http://uisdc.qiniudn.com/wp-content/uploads/2014/11/TB1DfzuGFXXXXb3apXXwu0bFXXX.png" alt="2015春夏流行色" title="2015春夏流行色"></p>
+<p><a id="more"></a><br>2015年春夏的色彩更加偏向冷色调，色彩更加柔软、明快和朴素。女性流行色的领衔颜色是水蓝色，空气感的蓝色调有一种梦幻般的感觉，令人宁静。这种给人舒适感的蓝色能帮助我们缓解压力。</p>
+<p>Scuba Blue的出现令我感到惊喜，尽管它属于冷色调，但却给人一种兴奋、欢快的感觉。这种颜色的灵感“来自热带海洋，因此让人有逃离喧嚣、来到异国天堂的愉悦之感”。可惜的是想不出合适的翻译Scuba Blue这个名称… (=￣ω￣=).</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="Hello_world!">Hello world!</h2>
+<p>寒冷的冬天提醒我又要关注一下来年春夏的颜色了，因为春夏的颜色往往清新明快，赏心悦目的颜色会让我感觉冬天不那么难熬…</p>
+<p>除了一系列和谐又多变的色彩之外，时尚大师们对于色彩的热情诠释同样让我备受启发。色彩如此直观的牵动人的情绪和思想，想营造庄严的寂静？还是宁静的优雅？是空气感的轻盈？还是现代感的速度？是想给人薰衣草庄园一样的梦幻感？美酒和宝石的奢华感？还是水果和甜品的愉悦感？</p>
+<p><img src="http://uisdc.qiniudn.com/wp-content/uploads/2014/11/TB1DfzuGFXXXXb3apXXwu0bFXXX.png" alt="2015春夏流行色" title="2015春夏流行色"></p>
+<p>]]>
+    
+    </summary>
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+    
+      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/2014/11/27/hello-world/"/>
+    <id>http://yoursite.com/2014/11/27/hello-world/</id>
+    <published>2014-11-27T10:19:12.000Z</published>
+    <updated>2014-11-27T10:19:12.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2>
+<h3 id="Create_a_new_post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
